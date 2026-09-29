@@ -1,6 +1,6 @@
 # CAG Contactor
 
-Välkommen till CAG Contactors GitHub-organisation. Här samlar vi kod från kompetensdagar, labbar, interna verktyg och experiment.
+Välkommen till CAG Contactors GitHub. Här samlar vi kod från kompetensdagar, labbar, interna verktyg och experiment.
 
 CAG Contactor är ett IT-konsultbolag inom CAG, grundat 1987 och en del av CAG sedan 2005. Vi arbetar med Java-utveckling, frontend-utveckling, testautomation samt test och testledning. Våra konsulter har i snitt över 15 års erfarenhet, och vi investerar aktivt i kompetensutveckling, kunskapsdelning och tekniska nätverk.
 
