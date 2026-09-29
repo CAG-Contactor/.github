@@ -28,25 +28,20 @@ CAG Contactor är ett konsultbolag inom systemutveckling. Vi delar gärna med os
 | [gurkburk](https://github.com/CAG-Contactor/gurkburk) | Cucumber |
 | [langchain4j-lab](https://github.com/CAG-Contactor/langchain4j-lab) | Labbdag om LangChain4J (privat repo) |
 
-## Racing
-
-| Repo | Beskrivning |
-|------|-------------|
-| [racing-management-system](https://github.com/CAG-Contactor/racing-management-system) | The ultimate race management system |
-| [cag-cloud-racing](https://github.com/CAG-Contactor/cag-cloud-racing) | The new CAG Racing Manager |
-
 ## Jfokus
 
 | Repo | Beskrivning |
 |------|-------------|
 | [admin-ui](https://github.com/CAG-Contactor/admin-ui) | Admin-UI för den årliga Jfokus-applikationen |
 | [jfokus-2025](https://github.com/CAG-Contactor/jfokus-2025) | Jfokus 2025 – The pump foil game |
+| [racing-management-system](https://github.com/CAG-Contactor/racing-management-system) | The ultimate race management system |
+| [cag-cloud-racing](https://github.com/CAG-Contactor/cag-cloud-racing) | The new CAG Racing Manager |
+| [pump-foil-game](https://github.com/CAG-Contactor/pump-foil-game) | The pump foil game |
 
 ## Exempel, verktyg och experiment
 
 | Repo | Beskrivning |
 |------|-------------|
-| [pump-foil-game](https://github.com/CAG-Contactor/pump-foil-game) | The pump foil game |
 | [hailo-apps](https://github.com/CAG-Contactor/hailo-apps) | Hailo-appar |
 | [podcasts](https://github.com/CAG-Contactor/podcasts) | Publika podcasts |
 | [todo-app-java](https://github.com/CAG-Contactor/todo-app-java) | Java-mikrotjänst med API Gateway och Lambda |
